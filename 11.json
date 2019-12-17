@@ -1,0 +1,10 @@
+{
+ "id": "11",
+ "name": "抖音解析 无水印",
+ "version": "5",
+ "zz": "(?<=video_id\\=)[^\"]+",
+ "u": "https://api.amemv.com/aweme/v1/play/?video_id=",
+ "success": "已将抖音无水印保存到相机胶卷！",
+ "api": "http://118.24.49.88/KeJiShou/DouYin.php",
+ "ag": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 aweme_8.3.1 JsSdk/2.0 NetType/WIFI Channel/App Store ByteLocale/zh Region/CN ByteFullLocale/zh-Hans-CN WKWebView/1"
+}
